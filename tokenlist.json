@@ -1,6 +1,6 @@
 {
   "name": "GENKI Token List",
-  "logoURI": "https://raw.githubusercontent.com/Kapitanliki/genkicoin/main/300px.png",
+  "logoURI": "https://raw.githubusercontent.com/Kapitanliki/genkicoin/main/logo.png",
   "keywords": ["genki", "community", "gamified"],
   "timestamp": "2025-04-06T00:00:00Z",
   "tokens": [
@@ -10,7 +10,7 @@
       "name": "GENKI",
       "symbol": "GENKI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Kapitanliki/genkicoin/main/300px.png",
+      "logoURI": "https://raw.githubusercontent.com/Kapitanliki/genkicoin/main/logo.png",
       "description": "GENKI (元気) is a gamified community token inspired by the spirit of vitality and meme culture. It features an interactive 'Spirit Ball' system where token holders generate and share energy through social engagement and community participation. As part of the Gensokishi ecosystem, GENKI rewards users for completing quests, staking, and contributing to in-game and social activities, creating a fun and meaningful blockchain-based experience."
     }
   ],
