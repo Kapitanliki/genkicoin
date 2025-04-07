@@ -2,7 +2,7 @@
   "name": "GENKI Token List",
   "logoURI": "https://raw.githubusercontent.com/Kapitanliki/genkicoin/main/300px.png",
   "keywords": ["genki", "community", "gamified"],
-  "timestamp": "2025-04-06T00:00:00+00:00",
+  "timestamp": "2025-04-06T00:00:00Z",
   "tokens": [
     {
       "chainId": 137,
